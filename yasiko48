@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="frame">
+      <div class="overlap-group-wrapper">
+        <div class="overlap-group">
+          <div class="rectangle"></div>
+          <img class="abstract-PNG-image" src="img/abstract-PNG-image-1.png" />
+          <div class="div"></div>
+          <img class="img" src="img/rectangle.png" />
+          <img class="image" src="img/image-19.png" />
+          <img class="image-2" src="img/image-5.png" />
+          <img class="image-3" src="img/image-10.png" />
+          <img class="image-4" src="img/image-15.png" />
+          <img class="image-5" src="img/image-3.png" />
+          <img class="image-6" src="img/image-13.png" />
+          <img class="image-7" src="img/image-11.png" />
+          <img class="image-8" src="img/image-2.png" />
+          <img class="image-9" src="img/image-17.png" />
+          <img class="image-10" src="img/image-16.png" />
+          <img class="image-11" src="img/image-7.png" />
+          <img class="image-12" src="img/image-20.png" />
+          <img class="image-13" src="img/image-6.png" />
+          <img class="image-14" src="img/image-8.png" />
+          <img class="image-15" src="img/image-12.png" />
+          <img class="image-16" src="img/image-4.png" />
+          <img class="image-17" src="img/image-21.png" />
+          <img class="image-18" src="img/image-14.png" />
+          <img class="image-19" src="img/image.png" />
+          <img class="image-19" src="img/image-9.png" />
+          <img class="image-20" src="img/image-18.png" />
+          <img class="pngtreetechnology" src="img/pngtree-technology-line-7212834-1.png" />
+          <div class="rectangle-2"></div>
+          <div class="rectangle-2"></div>
+          <div class="rectangle-3"></div>
+          <div class="rectangle-4"></div>
+          <div class="rectangle-4"></div>
+          <img class="polygon" src="img/polygon-1.svg" />
+          <img class="polygon-2" src="img/polygon-14.svg" />
+          <img class="polygon-3" src="img/polygon-15.svg" />
+          <img class="polygon-4" src="img/polygon-16.svg" />
+          <img class="polygon-5" src="img/polygon-17.svg" />
+          <img class="polygon-6" src="img/polygon-18.svg" />
+          <img class="polygon-7" src="img/polygon-19.svg" />
+          <img class="polygon-8" src="img/polygon-20.svg" />
+          <img class="polygon-9" src="img/polygon-21.svg" />
+          <img class="polygon-10" src="img/polygon-22.svg" />
+          <img class="polygon-11" src="img/polygon-2.svg" />
+          <img class="polygon-12" src="img/polygon-3.svg" />
+          <img class="polygon-13" src="img/polygon-4.svg" />
+          <img class="polygon-14" src="img/polygon-5.svg" />
+          <img class="polygon-15" src="img/polygon-6.svg" />
+          <img class="polygon-16" src="img/polygon-7.svg" />
+          <img class="polygon-17" src="img/polygon-8.svg" />
+          <img class="polygon-18" src="img/polygon-9.svg" />
+          <img class="polygon-19" src="img/polygon-10.svg" />
+          <img class="polygon-20" src="img/polygon-11.svg" />
+          <img class="polygon-21" src="img/polygon-13.svg" />
+          <img class="polygon-22" src="img/polygon-23.svg" />
+          <div class="ellipse"></div>
+          <div class="ellipse-2"></div>
+          <div class="ellipse-3"></div>
+          <div class="ellipse-4"></div>
+          <div class="ellipse-5"></div>
+          <div class="ellipse-6"></div>
+          <div class="ellipse-7"></div>
+          <div class="ellipse-8"></div>
+          <div class="ellipse-9"></div>
+          <div class="ellipse-10"></div>
+          <div class="ellipse-11"></div>
+          <div class="ellipse-12"></div>
+          <div class="ellipse-13"></div>
+          <div class="ellipse-14"></div>
+          <div class="ellipse-15"></div>
+          <div class="ellipse-16"></div>
+          <div class="ellipse-17"></div>
+          <div class="ellipse-18"></div>
+          <div class="ellipse-19"></div>
+          <div class="ellipse-20"></div>
+          <div class="ellipse-21"></div>
+          <div class="ellipse-22"></div>
+          <div class="rectangle-5"></div>
+          <div class="rectangle-6"></div>
+          <div class="rectangle-7"></div>
+          <div class="rectangle-8"></div>
+          <div class="rectangle-9"></div>
+          <div class="rectangle-10"></div>
+          <div class="rectangle-11"></div>
+          <div class="rectangle-12"></div>
+          <div class="rectangle-13"></div>
+          <div class="rectangle-14"></div>
+          <div class="rectangle-15"></div>
+          <div class="rectangle-16"></div>
+          <div class="rectangle-17"></div>
+          <div class="rectangle-18"></div>
+          <div class="rectangle-19"></div>
+          <div class="rectangle-20"></div>
+          <div class="rectangle-21"></div>
+          <div class="rectangle-22"></div>
+          <div class="rectangle-23"></div>
+          <div class="rectangle-24"></div>
+          <div class="rectangle-25"></div>
+          <div class="rectangle-25"></div>
+          <p class="professional">
+            Professional, scientific, and technical services<br /><br />information<br /><br />Finance and insurance<br /><br />Managment
+            of companies and enterprises <br /><br />Utilities<br /><br />Educational services <br /><br />Educational
+            services <br /><br />Real estate and rental and leasing<br /><br />Wholesale trade<br /><br />Administrative
+            and waste management services<br /><br />Arts, entertainment , and recreation<br /><br />Durable
+            manufacturing<br /><br />Agriculture, Forestry, Fishing and hunting
+            <br /><br />Manufacturing<br /><br />Nondurable manufacturing<br /><br />Healthcare and social assistance<br /><br />Reatail
+            trade<br /><br />Mining <br /><br />Other services, except goverment<br /><br />Transportaion and
+            warehousing<br /><br />Construction <br /><br />Accommodation and food services
+          </p>
+          <div class="text-wrapper">2019</div>
+          <div class="text-wrapper-2">2021</div>
+          <div class="text-wrapper-3">2022</div>
+          <div class="text-wrapper-4">0.0</div>
+          <div class="text-wrapper-5">10.0</div>
+          <div class="text-wrapper-6">20.0</div>
+          <div class="text-wrapper-7">30.0</div>
+          <div class="text-wrapper-8">40.0</div>
+          <div class="text-wrapper-9">50.0</div>
+          <p class="p">Percent of remote workers by major industry group, ranked from largest to smallest 2020</p>
+          <p class="text-wrapper-10">
+            Percent of remote workers by major industry group, ranked from largest to smallest 2020
+          </p>
+          <p class="productivity-and">&nbsp;&nbsp;&nbsp;&nbsp; Productivity and Remote Work</p>
+          <img class="technology-PNG-image" src="img/technology-PNG-image-1.png" />
+          <div class="ellipse-23"></div>
+          <div class="ellipse-24"></div>
+          <div class="ellipse-25"></div>
+          <div class="text-wrapper-11">Effective Communication</div>
+          <div class="text-wrapper-12">Time Management</div>
+          <div class="text-wrapper-13">Workspace Setup</div>
+          <div class="text-wrapper-14">Health?</div>
+          <img class="pngtreenetwork-data" src="img/pngtree-network-data-globe-white-earth-4971384-1.png" />
+          <div class="text-wrapper-15">Future of Remote Work</div>
+          <img class="vector-alarm-clock" src="img/vector-alarm-clock-PNG-photos-1.png" />
+          <img class="element" src="img/1280x1024-2d319c821f9dc43956d94e73b9c1eb55-1.png" />
+          <div class="ellipse-26"></div>
+          <div class="ellipse-27"></div>
+          <div class="ellipse-28"></div>
+          <div class="ellipse-29"></div>
+          <div class="ellipse-30"></div>
+          <div class="ellipse-31"></div>
+          <img class="home" src="img/home.png" />
+          <img class="remote-work-PNG" src="img/remote-work-PNG-image-transparent-2.png" />
+          <img class="tree" src="img/tree.png" />
+          <img class="light-mode" src="img/light-mode.svg" />
+          <img class="guitar-icon-png" src="img/guitar-icon-png-1-1.png" />
+          <img class="calendar-icon-png" src="img/calendar-icon-png-black-29-1.png" />
+          <p class="text-wrapper-16">Coping with mental health as a Remote worker.............</p>
+          <p class="text-wrapper-17">Access to a Global Talent Pool</p>
+          <div class="text-wrapper-18">Innovative Work Models</div>
+          <img class="gierzgt" src="img/gie5rzg7t-1.png" />
+          <img class="gierzgt-2" src="img/gie5rzg7t-2.png" />
+          <div class="rectangle-26"></div>
+          <div class="rectangle-27"></div>
+          <div class="rectangle-28"></div>
+          <div class="rectangle-29"></div>
+          <div class="rectangle-30"></div>
+          <div class="rectangle-31"></div>
+          <div class="rectangle-32"></div>
+          <div class="rectangle-33"></div>
+          <p class="remote-work-allows">
+            <br />
+            <br />Remote work allows companies to hire employees from anywhere in the world, breaking down geographical
+            barriers. This access to a global talent pool offers several benefits: <br />
+            <br />1. Diverse Perspectives: Hiring from different regions brings diverse cultural and professional
+            perspectives, fostering innovation and creativity within the team. <br />
+            <br />2. Specialized Skills: Companies can find the best talent with specific skills and expertise,
+            regardless of their location. This is particularly valuable for roles that require niche skills or
+            experience. <br />
+            <br />3. Cost Efficiency: Hiring remote workers can be more cost-effective, as companies can tap into
+            regions with lower living costs, potentially reducing salary expenses without compromising on talent
+            quality. <br />
+            <br />4. 24/7 Productivity: With team members in different time zones, companies can achieve round-the-clock
+            productivity. This can be especially beneficial for customer support and global operations. <br />
+            <br />5. Scalability: Remote work allows companies to scale their workforce quickly and efficiently,
+            adapting to changing business needs without the constraints of physical office space.
+          </p>
+          <p class="element-hybrid-work">
+            1. Hybrid Work: <br />&nbsp;&nbsp; - Description: Hybrid work combines remote and in-person work, allowing
+            employees to split their time between working from home and the office. <br />&nbsp;&nbsp; - Benefits:
+            Offers flexibility, improves work-life balance, and maintains face-to-face interactions for collaboration
+            and team bonding. <br />&nbsp;&nbsp; - Challenges: Requires effective communication and coordination, and
+            may lead to disparities between remote and in-office employees. <br />
+            <br />2. Decentralized Autonomous Organizations (DAOs): <br />&nbsp;&nbsp; - Description: DAOs are
+            organizations that operate without centralized leadership, using blockchain technology for transparent and
+            efficient decision-making. <br />&nbsp;&nbsp; - Benefits: Promotes transparency, reduces administrative
+            overhead, and allows for decentralized decision-making. <br />&nbsp;&nbsp; - Challenges: Requires a strong
+            understanding of blockchain technology, and may face regulatory and legal hurdles. <br />
+            <br />3. Extended Reality (XR) Technologies: <br />&nbsp;&nbsp; - Description: XR encompasses virtual
+            reality (VR), augmented reality (AR), and mixed reality (MR) technologies to create immersive experiences.
+            <br />&nbsp;&nbsp; - Benefits: Enhances remote collaboration, provides immersive training and simulations,
+            and can improve productivity and engagement. <br />&nbsp;&nbsp; - Challenges: Requires significant
+            investment in technology and infrastructure, and may have a learning curve for users.
+          </p>
+          <img class="element-desk" src="img/258-2585172-desk-table-office-icono-de-escritorio-de-oficina-1.png" />
+          <p class="element-2">
+            15.0<br /><br /><br /><br /><br />10.0<br /><br /><br /><br /><br />5.0<br /><br /><br /><br /><br />0.0<br /><br /><br /><br /><br />-5.0<br /><br /><br /><br /><br />-10.0<br /><br /><br /><br /><br />-15.0<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            5.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.0&nbsp;&nbsp;&nbsp;&nbsp; 15.0&nbsp;&nbsp;&nbsp;&nbsp;
+            20.0&nbsp;&nbsp;&nbsp;&nbsp; 25.0&nbsp;&nbsp;&nbsp;&nbsp; 30.0&nbsp;&nbsp;&nbsp;&nbsp;
+            35.0&nbsp;&nbsp;&nbsp;&nbsp; 40.0&nbsp;&nbsp;&nbsp;&nbsp; 45.0&nbsp;&nbsp;&nbsp;&nbsp; 50.0
+          </p>
+          <div class="ellipse-32"></div>
+          <div class="ellipse-33"></div>
+          <div class="ellipse-34"></div>
+          <div class="ellipse-35"></div>
+          <div class="ellipse-36"></div>
+          <div class="ellipse-37"></div>
+          <div class="ellipse-38"></div>
+          <div class="ellipse-39"></div>
+          <div class="ellipse-40"></div>
+          <div class="ellipse-41"></div>
+          <div class="ellipse-42"></div>
+          <div class="ellipse-43"></div>
+          <div class="ellipse-44"></div>
+          <div class="ellipse-45"></div>
+          <div class="ellipse-46"></div>
+          <img class="ellipse-47" src="img/ellipse-53.svg" />
+          <img class="ellipse-48" src="img/ellipse-55.svg" />
+          <img class="ellipse-49" src="img/ellipse-56.svg" />
+          <img class="ellipse-50" src="img/ellipse-57.svg" />
+          <img class="ellipse-51" src="img/ellipse-58.svg" />
+          <img class="ellipse-52" src="img/ellipse-59.svg" />
+          <img class="ellipse-53" src="img/ellipse-62.svg" />
+          <img class="ellipse-54" src="img/ellipse-63.svg" />
+          <img class="ellipse-55" src="img/ellipse-64.svg" />
+          <img class="ellipse-56" src="img/ellipse-65.svg" />
+          <img class="ellipse-57" src="img/ellipse-66.svg" />
+          <img class="ellipse-58" src="img/ellipse-67.svg" />
+          <img class="ellipse-59" src="img/ellipse-68.svg" />
+          <img class="ellipse-60" src="img/ellipse-69.svg" />
+          <img class="ellipse-61" src="img/ellipse-70.svg" />
+          <img class="ellipse-62" src="img/ellipse-60.svg" />
+          <img class="ellipse-63" src="img/ellipse-61.svg" />
+          <div class="ellipse-64"></div>
+          <div class="ellipse-65"></div>
+          <div class="ellipse-66"></div>
+          <div class="ellipse-67"></div>
+          <div class="ellipse-68"></div>
+          <div class="ellipse-69"></div>
+          <div class="ellipse-70"></div>
+          <img class="line" src="img/line-5.svg" />
+          <div class="y">y=0.08x -&nbsp;&nbsp;0.28</div>
+          <p class="text-wrapper-19">Percentage point change in remote workers</p>
+          <div class="text-wrapper-20">Percent change in TFP</div>
+          <div class="rectangle-34"></div>
+          <div class="rectangle-35"></div>
+          <div class="rectangle-36"></div>
+          <div class="rectangle-37"></div>
+          <div class="rectangle-38"></div>
+          <div class="rectangle-39"></div>
+          <p class="text-wrapper-21">Set boundaries between work and home life.</p>
+          <p class="text-wrapper-22">Make time for hobbies and interest outside of work.</p>
+          <div class="text-wrapper-23">Get outside each day.</div>
+          <p class="text-wrapper-24">Take breaks during the day.</p>
+          <p class="text-wrapper-25">Schedule regular check-in with your manager.</p>
+          <p class="text-wrapper-26">Seek professional help of needed.</p>
+          <img class="asd" src="img/asd-1.png" />
+          <p class="what-is-the">
+            <span class="span"
+              >What is the relationship between remote work and productivity? Recent research in BLS Beyond the Numbers,
+              October 2024, &#34;The rise in remote work since the pandemic and its impact on productivity&#34; by
+              Sabrina Wulff Pabilonia and Jill Janocha Redmond, economists in the Office of Productivity and
+              Technology, finds a positive relationship between total factor productivity and remote work.<br />According
+              to the American Community Survey (ACS), remote work increased dramatically across all major industries
+              between 2019 and 2021. Then, with the removal of all social distancing restrictions in 2022, the
+              percentage of remote workers fell slightly. However, it was still higher than its 2019 level in all
+              industries except agriculture, forestry, fishing, and hunting, which returned to its 2019 level.</span
+            >
+          </p>
+          <img class="remote-working" src="img/remote-working-8655276-1.png" />
+          <p class="are-you-ready-for">
+            <span class="text-wrapper-27">Are You </span>
+            <span class="text-wrapper-28">Ready</span>
+            <span class="text-wrapper-27"> for Remote Working?</span>
+          </p>
+          <p class="by-million">
+            <span class="text-wrapper-27">By 2025, </span>
+            <span class="text-wrapper-29">32.6 </span>
+            <span class="text-wrapper-30">million</span>
+            <span class="text-wrapper-27">&nbsp;</span>
+            <span class="text-wrapper-30">Americans</span>
+            <span class="text-wrapper-27"> will work remotely, equating to about </span>
+            <span class="text-wrapper-28">22%</span>
+            <span class="text-wrapper-27"> of the workforce.<br /><br /><br /></span>
+            <span class="text-wrapper-29">98% </span>
+            <span class="text-wrapper-27">of </span>
+            <span class="text-wrapper-28">workers</span>
+            <span class="text-wrapper-27"> want to work remotely at least some of the time.<br /><br /><br /></span>
+            <span class="text-wrapper-29">16%</span>
+            <span class="text-wrapper-27"> of </span>
+            <span class="text-wrapper-28">companies</span>
+            <span class="text-wrapper-27"> operate fully remote<br /><br /></span>
+          </p>
+          <img class="white-people-icon" src="img/white-people-icon-23-1.png" />
+          <img class="white-people-icon-2" src="img/white-people-icon-23-2.png" />
+          <img class="home-icon-white" src="img/home-icon-white-1-1.png" />
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
